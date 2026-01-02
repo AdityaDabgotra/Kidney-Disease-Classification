@@ -29,7 +29,7 @@ The system includes:
 ---
 
 ## 🗂️ Project Structure
-
+```bash
 Kidney-Disease-Classification/
 │
 ├── artifacts/ # Trained models and generated outputs
@@ -46,7 +46,7 @@ Kidney-Disease-Classification/
 ├── main.py # Training pipeline entry point
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
-
+```
 
 ---
 
